@@ -1,4 +1,4 @@
-browser.topSites.get()
+1browser.topSites.get()
   .then((sites) => {
     var div = document.getElementById('site-list');
 
